@@ -1,0 +1,43 @@
+.header-nav-section nav a.brand-logo,
+.header-section .logo a span,
+.social-links a i,
+.call-to-action i,
+.main-color,
+.resume-item .resume-right h2:after,
+.owl-nav div,
+.contact-info i,
+.site-btn.btn-outline,
+.social-share a,
+.portfolio-filter li.active,
+#testimonial-carousel .owl-nav div,
+.single-fact span.num,
+.single-blog-area .card .card-action a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating),
+#team .owl-nav span i,
+.instagram-block i,.fun-icon,
+.single-team-area .card .card-content .card-title i{
+  color: #795548;
+}
+
+.bg-color,
+.site-btn, .bar-inner,
+.resume-item .resume-right:after,
+.owl-nav div:hover,
+.blog-item:after,
+.color-bg, .header-section .menu-list li a:after,
+.social i,
+.single-tag,
+.btn.action-btn,
+.timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon,
+.white-text.action-btn,
+.header-nav-section .nav-wrapper li a:after{
+  background: #795548
+}
+input:not([type]):focus:not([readonly]), input[type=text]:not(.browser-default):focus:not([readonly]), input[type=password]:not(.browser-default):focus:not([readonly]), input[type=email]:not(.browser-default):focus:not([readonly]), input[type=url]:not(.browser-default):focus:not([readonly]), input[type=time]:not(.browser-default):focus:not([readonly]), input[type=date]:not(.browser-default):focus:not([readonly]), input[type=datetime]:not(.browser-default):focus:not([readonly]), input[type=datetime-local]:not(.browser-default):focus:not([readonly]), input[type=tel]:not(.browser-default):focus:not([readonly]), input[type=number]:not(.browser-default):focus:not([readonly]), input[type=search]:not(.browser-default):focus:not([readonly]), textarea.materialize-textarea:focus:not([readonly]) {
+    border-bottom: 1px solid #795548;
+    -webkit-box-shadow: 0 1px 0 0 #795548;
+    box-shadow: 0 1px 0 0 #795548;
+}
+
+input:not([type]):focus:not([readonly])+label, input[type=text]:not(.browser-default):focus:not([readonly])+label, input[type=password]:not(.browser-default):focus:not([readonly])+label, input[type=email]:not(.browser-default):focus:not([readonly])+label, input[type=url]:not(.browser-default):focus:not([readonly])+label, input[type=time]:not(.browser-default):focus:not([readonly])+label, input[type=date]:not(.browser-default):focus:not([readonly])+label, input[type=datetime]:not(.browser-default):focus:not([readonly])+label, input[type=datetime-local]:not(.browser-default):focus:not([readonly])+label, input[type=tel]:not(.browser-default):focus:not([readonly])+label, input[type=number]:not(.browser-default):focus:not([readonly])+label, input[type=search]:not(.browser-default):focus:not([readonly])+label, textarea.materialize-textarea:focus:not([readonly])+label {
+    color: #795548;
+}
