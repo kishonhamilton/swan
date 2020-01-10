@@ -1081,7 +1081,7 @@ ul.short-bio .collection-item>span {
   top: 0px;
 }
 
-}
+
 
 .work-inner:after {
   background: rgba(0, 0, 0, 0) url("assets/images/brand/1.png") no-repeat scroll 0 0 / 100% auto;
@@ -1314,7 +1314,7 @@ ul.short-bio .collection-item>span {
 	position:relative;
 	background:url(../images/funfact.jpg);
   background-repeat: no-repeat;
-  background-position: center center;
+  background-position: center bottom;
   -webkit-background-size: cover;
   background-size: cover;
 }
