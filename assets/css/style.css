@@ -415,6 +415,14 @@ nav .brand-logo {
   text-align: left;
 }
 
+.intro-subheading h4 {
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  letter-spacing: 3px;
+  font-weight: bold;
+}
+
 .intro-inner .intro-content h2 {
   color: #fff;
   font-family: 'Montserrat', sans-serif;
